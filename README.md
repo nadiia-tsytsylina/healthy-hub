@@ -21,7 +21,7 @@ The application contains 9 pages:
    and calories in charts for last month or last year;
 8. Settings page - the private page where user can update his profile
    information;
-9. Recommended food page - the private page with recommended food;
+9. Recommended food page - the private page with recommended food info;
 
 ## Technology stack
 
