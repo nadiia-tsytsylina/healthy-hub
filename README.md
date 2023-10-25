@@ -60,8 +60,6 @@ or
 5. Open your web browser and visit
    [http://localhost:3000/](http://localhost:3000/) to access the application.
 
-### Author
-
 [Nadiia Tsytsylina](https://github.com/nadiia-tsytsylina)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tsytsylina/)
