@@ -2,7 +2,7 @@ import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL: 'https://backend-healthyhub.onrender.com/',
+  baseURL: 'https://backend-healthyhub-o0ml.onrender.com/',
 });
 
 const setAuthHeader = token => {

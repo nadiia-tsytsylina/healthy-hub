@@ -3,7 +3,7 @@ import axios from 'axios';
 const checkEmail = async email => {
   const res = await axios({
     method: 'post',
-    url: 'https://backend-healthyhub.onrender.com/api/users/check-email',
+    url: 'https://backend-healthyhub-o0ml.onrender.com/api/users/check-email',
     data: {
       email,
     },

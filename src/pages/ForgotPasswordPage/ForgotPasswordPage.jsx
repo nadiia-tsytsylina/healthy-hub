@@ -44,7 +44,7 @@ const ForgotPasswordPage = () => {
 
     try {
       const response = await axios.post(
-        'https://backend-healthyhub.onrender.com/api/users/forgot-password',
+        'https://backend-healthyhub-o0ml.onrender.com/api/users/forgot-password',
         {
           email: email,
         }

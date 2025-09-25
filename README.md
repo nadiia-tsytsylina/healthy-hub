@@ -1,7 +1,7 @@
 # Healthy Hub app
 
 Backend part of this project -
-[Backend Healthy Hub](https://github.com/1Kostik/backend_healthyhub)
+[Backend Healthy Hub](https://github.com/nadiia-tsytsylina/backend_healthyhub)
 
 This is a React application that allows to monitor user's health, nutrition,
 weight and water intake. Automatically calculates the number of calories

@@ -1,10 +1,13 @@
 import axios from 'axios';
 
 const signUp = async userData => {
-  await axios('https://backend-healthyhub.onrender.com/api/users/register', {
-    method: 'post',
-    data: userData,
-  });
+  await axios(
+    'https://backend-healthyhub-o0ml.onrender.com/api/users/register',
+    {
+      method: 'post',
+      data: userData,
+    }
+  );
 };
 
 export default signUp;
